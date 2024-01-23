@@ -16,3 +16,7 @@ echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.co
 ```
 sudo apt update && sudo apt install nodejs -y
 ```
+## Simple Check
+```
+node -v && npm -v
+```
